@@ -107,4 +107,6 @@ body {
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
+  text-shadow: 2px 0 #05071d, -2px 0 #3f4580, 0 2px #79708b, 0 -2px #a99ae9,
+    1px 1px #3d94aa, -1px -1px #24155a, 1px -1px #3f9fb8, -1px 1px #6c228f;
 }
